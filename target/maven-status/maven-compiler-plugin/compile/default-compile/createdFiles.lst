@@ -1,0 +1,10 @@
+com/backend/Repository/MovieRepository.class
+com/backend/Controllers/UserController.class
+com/backend/Repository/AdminRepository.class
+com/backend/Entity/Admin.class
+com/backend/Entity/Movie.class
+com/backend/Entity/User.class
+com/backend/Controllers/MovieController.class
+com/backend/BackendApplication.class
+com/backend/Repository/UserRepository.class
+com/backend/Controllers/AdminController.class
